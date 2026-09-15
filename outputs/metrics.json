@@ -1,0 +1,1 @@
+{"accuracy": 98.45, "precision": 97.46, "recall": 89.84, "f1": 93.5, "roc_auc": 0.992, "best_model": "SVM", "total_msgs": 5157, "spam_count": 641, "ham_count": 4516}
